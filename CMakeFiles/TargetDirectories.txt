@@ -1,0 +1,3 @@
+/home/truong/Documents/model/CMakeFiles/rebuild_cache.dir
+/home/truong/Documents/model/CMakeFiles/model.dir
+/home/truong/Documents/model/CMakeFiles/edit_cache.dir
